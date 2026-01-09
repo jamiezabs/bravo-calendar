@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bravo-premieres//Bravo Network Premieres//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bravo — Network Premieres (New Programming)
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:bravo-the-valley-persian-style-s01e01-20260108@bravo-premieres
+DTSTAMP:20260109T010100Z
+DTSTART:20260109T020000Z
+DTEND:20260109T030000Z
+SUMMARY:The Valley: Persian Style — Series Premiere (S1E1)
+DESCRIPTION:Bravo network premiere. Airing Thu, Jan 8, 2026 at 9:00 PM ET.
+URL:https://www.bravotv.com/the-daily-dish/bravo-new-year-2026-schedule-complete-list-shows-premiere-dates
+END:VEVENT
+BEGIN:VEVENT
+UID:bravo-below-deck-down-under-s04e01-20260202@bravo-premieres
+DTSTAMP:20260109T010100Z
+DTSTART:20260203T010000Z
+DTEND:20260203T020000Z
+SUMMARY:Below Deck Down Under — Season 4 Premiere (S4E1)
+DESCRIPTION:Bravo network premiere. Airing Mon, Feb 2, 2026 at 8:00 PM ET.
+URL:https://www.bravotv.com/the-daily-dish/bravo-new-year-2026-schedule-complete-list-shows-premiere-dates
+END:VEVENT
+BEGIN:VEVENT
+UID:bravo-summer-house-s10e01-20260203@bravo-premieres
+DTSTAMP:20260109T010100Z
+DTSTART:20260204T010000Z
+DTEND:20260204T020000Z
+SUMMARY:Summer House — Season 10 Premiere (S10E1)
+DESCRIPTION:Bravo network premiere. Airing Tue, Feb 3, 2026 at 8:00 PM ET.
+URL:https://www.bravotv.com/the-daily-dish/bravo-new-year-2026-schedule-complete-list-shows-premiere-dates
+END:VEVENT
+BEGIN:VEVENT
+UID:bravo-rhoa-s16e01-20250309@bravo-premieres
+DTSTAMP:20260109T010100Z
+DTSTART:20250310T000000Z
+DTEND:20250310T010000Z
+SUMMARY:The Real Housewives of Atlanta — Season 16 Premiere (S16E1)
+DESCRIPTION:Bravo network premiere. Airing Sun, Mar 9, 2025 at 8:00 PM ET.
+URL:https://www.bravotv.com/the-daily-dish/rhoa-season-16-cast-trailer-premiere-date
+END:VEVENT
+BEGIN:VEVENT
+UID:bravo-rhonj-s14e01-20240505@bravo-premieres
+DTSTAMP:20260109T010100Z
+DTSTART:20240506T000000Z
+DTEND:20240506T010000Z
+SUMMARY:The Real Housewives of New Jersey — Season 14 Premiere (S14E1)
+DESCRIPTION:Bravo network premiere. Airing Sun, May 5, 2024 at 8:00 PM ET.
+URL:https://www.bravotv.com/the-daily-dish/rhonj-season-14-trailer-cast-premiere-date
+END:VEVENT
+BEGIN:VEVENT
+UID:bravo-rhoc-s19e01-20250710@bravo-premieres
+DTSTAMP:20260109T010100Z
+DTSTART:20250711T010000Z
+DTEND:20250711T020000Z
+SUMMARY:The Real Housewives of Orange County — Season 19 Premiere (S19E1)
+DESCRIPTION:Bravo network premiere. Airing Thu, Jul 10, 2025 at 9:00 PM ET.
+URL:https://www.bravotv.com/the-daily-dish/rhoc-season-19-trailer-cast-premiere-date-spoilers-details
+END:VEVENT
+BEGIN:VEVENT
+UID:bravo-rhoslc-s06e01-20250916@bravo-premieres
+DTSTAMP:20260109T010100Z
+DTSTART:20250917T000000Z
+DTEND:20250917T010000Z
+SUMMARY:The Real Housewives of Salt Lake City — Season 6 Premiere (S6E1)
+DESCRIPTION:Bravo network premiere. Airing Tue, Sep 16, 2025 at 8:00 PM ET.
+URL:https://www.bravotv.com/the-daily-dish/rhoslc-season-6-trailer-cast-premiere-date-details-spoilers
+END:VEVENT
+BEGIN:VEVENT
+UID:bravo-rhop-s10e01-20251005@bravo-premieres
+DTSTAMP:20260109T010100Z
+DTSTART:20251006T000000Z
+DTEND:20251006T010000Z
+SUMMARY:The Real Housewives of Potomac — Season 10 Premiere (S10E1)
+DESCRIPTION:Bravo network premiere. Airing Sun, Oct 5, 2025 at 8:00 PM ET.
+URL:https://www.bravotv.com/the-daily-dish/rhop-season-10-trailer-cast-premiere-date-spoilers-details
+END:VEVENT
+BEGIN:VEVENT
+UID:bravo-rhobh-s15e01-20251204@bravo-premieres
+DTSTAMP:20260109T010100Z
+DTSTART:20251205T010000Z
+DTEND:20251205T020000Z
+SUMMARY:The Real Housewives of Beverly Hills — Season 15 Premiere (S15E1)
+DESCRIPTION:Bravo network premiere. Airing Thu, Dec 4, 2025 at 8:00 PM ET.
+URL:https://www.bravotv.com/the-daily-dish/rhobh-season-15-trailer-cast-premiere-date-spoilers-details
+END:VEVENT
+END:VCALENDAR
